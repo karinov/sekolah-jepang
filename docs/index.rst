@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Contoh Repository Digital | Github Dokumen
+Kisaran Biaya Sekolah di Jepang
 ==================================================
 
 Contents:
@@ -23,44 +23,38 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Karinov Media Network 
+Biaya sekolah di Jepang
 ==================
-- https://karinov.co.id - jasa digital marketing indonesia
-- https://www.tnol.co.id - forum modifikasi otomotif indonesia
-- https://blogs.itb.ac.id/wikia - catatan hidup mahasiswa wikia alfa
-- https://blogs.itb.ac.id/feeds - kumpulan tautan berita terbaru indonesia
-- https://www.m-edukasi.web.id - portal bisnis online dan umkm
-- https://www.pelita.or.id - harian pelita portal informasi terkini
+Hanya saja, belum banyak yang punya gambaran soal jumlah uang yang harus dikeluarkan untuk menempuh studi di Jepang. Apalagi banyak kabar jika Jepang memiliki biaya hidup yang tinggi jika dibandingkan di Indonesia. 
 
-Tech News Online
+Sebenarnya besaran uang `sekolah di Jepang <https://jeducation.co.id/>`_ sangat bergantung dengan tipe program yang diambil. Biaya program sarjana tentunya berbeda program doktor atau kejuruan.
+
+Aspek lainnya juga adalah masa studinya karena berpengaruh dengan besarnya biaya hidup yang harus dikeluarkan. Namun jumlahnya sangat sesuai dengan kualitas yang didapat oleh lulusan institute pendidikan di Jepang. 
+
+Berikut adalah perkiraan biaya sekolah di Jepang yang harus diketahui. Hal ini penting khususnya jika sekolah di Jepang dengan merogoh kocek pribadi. 
+
+1.	Program sarjana 4 sampai 6 tahun
 ==================
-Portal teknologi internet dan internet marketing. Fokus mengulas seputar dunia startup, perkembangan teknologi informasi, serta dunia bisnis online.
+Studi sarjana di Jepang bisa memakan waktu 4 sampai 6 tahun sesuai dengan jurusannya. Ilmu kedokteran biasanya membutuhkan kuliah lebih lama dibandingkan yang lain. Biaya yang harus dikeluarkan biasanya mulai dari Rp300 juta sampai Rp2 miliar dari awal hingga lulus.
 
-M-edukasi.web.id
+2.	Pelatihan kejuruan
 ==================
-Mengupas tuntas berbagai hal terkait bisnis di era digital. Fokus dalam topik pengembangan startup di Indonesia, tips & trik blogging, serta SEO.
+Sekolah dengan jenis pelatihan kejuruan membutuhkan waktu yang lebih pendek hanya 2 tahun. Biasanya ilmu yang didapat berkaitan dengan bisnis, kesehatan dan pertanian. Uang yang harus dikeluarkan juga lebih sedikit yakni berkisar Rp230 juta sampai Rp350 juta. 
 
-Karinov Wiki
+3.	Junior college
 ==================
-Membahas berbagai problem dan pertanyaan yang sering muncul di internet. Karinov Wiki menawarkan Anda berbagai cara paling mudah dalam menyelesaikan masalah.
+Junior college adalah model sekolah dengan jenjang serupa D1 dan D2 di Indonesia. Hanya saja, ini hanya membutuhkan waktu 2 tahun sampai selesai. Dengan kurs rupiah Rp130 untuk 1 yen, maka biaya yang diperlukan sebesar Rp250 juta sampai Rp300 juta. 
 
-Karinov.co.id
+4.	Sekolah Teknik
 ==================
-Your next digital partner. Kami membantu bisnis Anda berkembang di era digital lewat layanan website dan optimasi SEO. Powered by Google Cloud Platform. Hire Us!
+Jenis pendidikan ini bisa diikuti oleh mahasiswa asing selepas lulus SMA/ Durasinya selama 3 tahun dengan focus menghasilkan tenaga terampil di industry mekanika. Biayanya juga lebih murah dibandingkan yang lainnya, yakni Rp120 juta sampai selesai. 
 
-Klub Studi
-==================
-Klub Studi Mahasiswa Bandung Hadir untuk memenuhi resources yang banyak dibutuhkan mahasiswa secara umum baik dari sisi keilmuan, aktivitas organisasi, serta materi lainnya.
+- `3 universitas terbesar di Jepang <https://www.evaluasi.or.id/2019/09/mengenal-universitas-terbesar-jepang.html>`_
 
-Pusat informasi SNMPTN
-==================
-SBMPTN serta beasiswa secara online. Tersedia info lengkap beserta tips mendapatkan beasiswa dalam dan luar negeri.
-Wikia Alfa Kumpulan Informasi Terkini, membahas seputar dunia teknologi, otomotif, pemasaran bisnis serta informasi menarik lainnya hanya di Wikia Alfa ITB Blogs.
+Berbagai biaya di atas belum ditambah dengan biaya hidup, tiket penerbangan, dan visa yang harus dibayar. Biaya hidup per orang di Jepang umumnya berkisar Rp10 juta per bulan. Jumlah ini mencakup apartemen dan makan, tapi tanpa asuransi dan transport.
 
-DMO.or.id
-==================
-Portal digital marketing rujukan untuk UKM dan bisnis online. Membahas berbagai tips dan trik seputar dunia pemasaran (marketing), SEO, serta trend terkini di dunia digital.
+Pengeluaran ini sebenarnya bisa dikurangi dengan melakukan beberapa penghematan. Salah satunya dengan tinggal di asrama kampus yang tentunya lebih hemat.
 
-- `kumpulan budaya indonesia <https://budaya.readthedocs.io/en/latest/>`_
-- `Otomotif on rftd <https://otomotif.readthedocs.io/en/latest/>`_
-- `alexa on rftd <https://alexa.readthedocs.io/en/latest/>`_
+Selain itu, bisa juga dengan kerja paruh waktu atau memasak sendiri. Namun, pastikan visa yang dimiliki memungkinkan untuk kerja paruh waktu agar tak bermasalah di kemudian hari. 
+
+- `rangkuman biaya kebutuhan hidup jepang <https://wiki.karinov.co.id/kebutuhan-dasar-biaya-hidup-di-jepang/>`_
